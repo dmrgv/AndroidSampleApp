@@ -1,0 +1,2 @@
+# AndroidSampleApp
+Тестовое Android приложение
